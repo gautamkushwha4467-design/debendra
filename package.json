@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CareerAI Guide</title>
+    <meta
+      name="description"
+      content="AI-powered career guidance platform with onboarding, dashboard, and learning roadmap."
+    />
+    <script type="module" crossorigin src="/assets/index-CWu4jKIU.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BOE0A3aw.css">
+  </head>
+  <body class="bg-slate-50 text-slate-900">
+    <div id="root"></div>
+  </body>
+</html>
